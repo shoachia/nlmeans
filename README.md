@@ -10,7 +10,9 @@ Below are the formula of Bilateral filter:
 
 ![](https://i.imgur.com/6l6HG8E.png)
 
-where ![](https://i.imgur.com/yTb1GgQ.png)
+where 
+
+![](https://i.imgur.com/yTb1GgQ.png)
 
 
 ![](https://i.imgur.com/7ceoVlS.png)
@@ -27,9 +29,12 @@ The formula for NL-means can be derived from ![](https://i.imgur.com/oUKcXpI.png
 
 There is only a slightly difference between bilateral filter and NL-means filter. The formula can be written as below:
 ![](https://i.imgur.com/bDLsdaF.png)
+
 ![](https://i.imgur.com/bjnK2lc.png)
 
-where ![](https://i.imgur.com/yTb1GgQ.png)
+where 
+
+![](https://i.imgur.com/yTb1GgQ.png)
 
 ![](https://i.imgur.com/qeYrPJW.png)
 
