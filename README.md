@@ -17,7 +17,11 @@ where
 
 ![](https://i.imgur.com/7ceoVlS.png)
 
-The above formula is derived from ![](https://i.imgur.com/0cYmFOP.png)
+The above formula is derived from 
+
+![](https://i.imgur.com/0cYmFOP.png)
+
+
 which is clear that the weight is based on space factor and pixel value factor.
 
 ---
@@ -25,7 +29,10 @@ which is clear that the weight is based on space factor and pixel value factor.
 ### 2. NL-means filter
 NL-means filter is an extension of bilateral filter, where instead of averaging values of pixels with similar values, **the values of pixels centered on similar patches are averaged**.
 
-The formula for NL-means can be derived from ![](https://i.imgur.com/oUKcXpI.png)
+The formula for NL-means can be derived from 
+
+![](https://i.imgur.com/oUKcXpI.png)
+
 
 There is only a slightly difference between bilateral filter and NL-means filter. The formula can be written as below:
 ![](https://i.imgur.com/bDLsdaF.png)
